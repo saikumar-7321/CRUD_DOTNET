@@ -1,0 +1,15 @@
+C:\K SAI KUMAR\Projects\DotNetFirst\bin\Debug\net7.0\DotNetFirst.exe
+C:\K SAI KUMAR\Projects\DotNetFirst\bin\Debug\net7.0\DotNetFirst.deps.json
+C:\K SAI KUMAR\Projects\DotNetFirst\bin\Debug\net7.0\DotNetFirst.runtimeconfig.json
+C:\K SAI KUMAR\Projects\DotNetFirst\bin\Debug\net7.0\DotNetFirst.dll
+C:\K SAI KUMAR\Projects\DotNetFirst\bin\Debug\net7.0\DotNetFirst.pdb
+C:\K SAI KUMAR\Projects\DotNetFirst\obj\Debug\net7.0\DotNetFirst.csproj.AssemblyReference.cache
+C:\K SAI KUMAR\Projects\DotNetFirst\obj\Debug\net7.0\DotNetFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\K SAI KUMAR\Projects\DotNetFirst\obj\Debug\net7.0\DotNetFirst.AssemblyInfoInputs.cache
+C:\K SAI KUMAR\Projects\DotNetFirst\obj\Debug\net7.0\DotNetFirst.AssemblyInfo.cs
+C:\K SAI KUMAR\Projects\DotNetFirst\obj\Debug\net7.0\DotNetFirst.csproj.CoreCompileInputs.cache
+C:\K SAI KUMAR\Projects\DotNetFirst\obj\Debug\net7.0\DotNetFirst.dll
+C:\K SAI KUMAR\Projects\DotNetFirst\obj\Debug\net7.0\refint\DotNetFirst.dll
+C:\K SAI KUMAR\Projects\DotNetFirst\obj\Debug\net7.0\DotNetFirst.pdb
+C:\K SAI KUMAR\Projects\DotNetFirst\obj\Debug\net7.0\DotNetFirst.genruntimeconfig.cache
+C:\K SAI KUMAR\Projects\DotNetFirst\obj\Debug\net7.0\ref\DotNetFirst.dll
